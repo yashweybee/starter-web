@@ -3,10 +3,11 @@
 This is sample website for laerning GIT
 adding som etext for rebasing example
 adding some more text
+Updating for emergrncy fix after stashing.
 
 ## INtroduction
 Interduction of this repo
-
+ 
 ## Purpose
 This is purpose of this website
 
