@@ -18,4 +18,4 @@ Fork this repo
 
 
 ### Copyright
-2023 git  training
+2023 git  training, All rights reserved
