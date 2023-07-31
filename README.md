@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is sample website for laerning GIT
+adding som etext for rebasing example
 
 ## INtroduction
 Interduction of this repo
