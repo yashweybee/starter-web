@@ -12,6 +12,8 @@ This is purpose of this website
 This is simple web project that is deployed on git-hub
 
 ## How To Contribute
+How To ContributeHow To ContributeHow To ContributeHow To ContributeHow To Contribute
+
 
 ### Copyright
 2023 git  training
