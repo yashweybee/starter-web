@@ -2,6 +2,7 @@
 
 This is sample website for laerning GIT
 adding som etext for rebasing example
+adding some more text
 
 ## INtroduction
 Interduction of this repo
